@@ -1,0 +1,12 @@
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\bin\Debug\E-Cüzdan.exe.config
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\bin\Debug\E-Cüzdan.exe
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\bin\Debug\E-Cüzdan.pdb
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\obj\Debug\E-Cüzdan.csprojResolveAssemblyReference.cache
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\obj\Debug\E_Cüzdan.Form1.resources
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\obj\Debug\E_Cüzdan.Properties.Resources.resources
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\obj\Debug\E-Cüzdan.csproj.GenerateResource.Cache
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\obj\Debug\E-Cüzdan.exe
+c:\users\hamdi\documents\visual studio 2012\Projects\E-Cüzdan\E-Cüzdan\obj\Debug\E-Cüzdan.pdb
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\bin\Debug\E-Cüzdan.exe.config
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\E-Cüzdan.exe
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\E-Cüzdan.pdb

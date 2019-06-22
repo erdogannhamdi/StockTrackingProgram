@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="E-Cüzdan.exe" version="1.0.0.13" publicKeyToken="71950a45c5b16b5f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Designcontest-Ecommerce-Business-Store.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="E-Cüzdan" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="E-Cüzdan.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="E-Cüzdan.exe" size="1128448">
+      <assemblyIdentity name="E-Cüzdan" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RfFnPILqIJfvc9/HEpwM02wICeQjSBerxS7CAmpLEXY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Designcontest-Ecommerce-Business-Store.ico" size="234688">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>A4sP2Vt6c5at6dwq/CmdM3J47vRijU6esesGFmn6PKE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="E-Cüzdan.exe.config" size="542">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hh6tD4SvR3gWl9Sb+LbBjBihrOpYeRoGmpzPBK696zU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="favicon.ico" size="8246">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R8S3xf6Lrbz8uPfwIOOIDKaUTURZ85Nr6teQkkmOsPU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="stok.mdf" size="5242880" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AhgE+5JHmRb2yTMwThgnile7F911Vk+eOj8mLP7oiIw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="stok_log.ldf" size="2097152" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0dELdjVXhvbTHagrr8NTsuQMLmoSK01XKQL5r4yifrM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=HAMDI\hamdi" issuerKeyHash="914945f3858ea7649a5ff8e6198fd859e4a30650" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+mDWhX8dJntAP2D8jnc8BLbGbAoeDv5D/sLOcmk/2q8=</DigestValue></Reference></SignedInfo><SignatureValue>wf6Gf8Dz4DUfoqyM/25FIs21CVEA3GEMaAROhG6Z+fZRWnxVBZbSUoewoRACs6oMJHsAJzdcvKIt7sxEdtUALGivwWSW/mKRXcppqnghuBqyALjGst0q0cSLlO8hJKa9ebQ7Ngb97ETEL/u9vVNOWCeiRwY0Cyr0EMx/s1ZDOPw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4d+kXOTJ1P3+J5AhnYT4QhsysRxDwcJil857iQMgNOObS5ejNsVBdelMh4jmljctItZbcXfH1m203kOFzQZy014Zmve5MAQ7ZYAicJRLrIbImdg7d+t73YxCNT6rsW+qZHJLY47ML49UqxhsiHzJx/xpDILfnTKY9tTOnYBkTtk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="afda3f6972cec2fe43fe0e1e0a6cc6b6043c778efc603f407b261d7f85d660fa" Description="" Url=""><as:assemblyIdentity name="E-Cüzdan.exe" version="1.0.0.13" publicKeyToken="71950a45c5b16b5f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HAMDI\hamdi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>yxwZSEP/KTSgGjU2kb1x8DbDdUEgzQduIJ/xiYet7VQ=</DigestValue></Reference></SignedInfo><SignatureValue>0MBzcD14L888cryBkfH6MJqn9WN9psCc7WONS6EaIS607dGCSXcKWvpuWY9fC1DowlB7lFtzP/1kKVlV2wJzFzKRHYYM7Zj5Jfzd0R3qubSIXY5djk4gZyImKU2vPSBQ+1kPYSeO5uiRRk8NaV/aPIp4risQzHv/FmbdFXwOvD0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4d+kXOTJ1P3+J5AhnYT4QhsysRxDwcJil857iQMgNOObS5ejNsVBdelMh4jmljctItZbcXfH1m203kOFzQZy014Zmve5MAQ7ZYAicJRLrIbImdg7d+t73YxCNT6rsW+qZHJLY47ML49UqxhsiHzJx/xpDILfnTKY9tTOnYBkTtk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQR16bsoPLf5tAR/b4+WwPcjANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYASABBAE0ARABJAFwAaABhAG0AZABpMB4XDTE3MDgxODA4MjkyOFoXDTE4MDgxODE0MjkyOFowITEfMB0GA1UEAx4WAEgAQQBNAEQASQBcAGgAYQBtAGQAaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA4d+kXOTJ1P3+J5AhnYT4QhsysRxDwcJil857iQMgNOObS5ejNsVBdelMh4jmljctItZbcXfH1m203kOFzQZy014Zmve5MAQ7ZYAicJRLrIbImdg7d+t73YxCNT6rsW+qZHJLY47ML49UqxhsiHzJx/xpDILfnTKY9tTOnYBkTtkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQDBKbSlvTF8pq1alQ911NlOg4RFA5Kc+9ZgXqfjJCzsST12KNgHXpwFaSJZe5f+XUnWKQ5syuNuEP1uEsPP0TA99/3+jDokj2xOa1prXzCtpK5uU1YD0aFjqNwgPrhAJ/HQ4Si1WrLi/H+7aiUJCOnOisJh1+4XcptAwuqbIFU0ug==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

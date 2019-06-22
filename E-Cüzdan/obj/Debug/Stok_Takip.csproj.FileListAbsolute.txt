@@ -1,0 +1,24 @@
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\bin\Debug\E-Cüzdan.exe.config
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\bin\Debug\E-Cüzdan.exe
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\bin\Debug\E-Cüzdan.pdb
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\E_Cüzdan.Form1.resources
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\E_Cüzdan.Properties.Resources.resources
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\Stok_Takip.csproj.GenerateResource.Cache
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\E-Cüzdan.exe
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\E-Cüzdan.pdb
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\bin\Debug\stok.mdf
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\bin\Debug\stok_log.ldf
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\bin\Debug\E-Cüzdan.exe.manifest
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\bin\Debug\E-Cüzdan.application
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\E-Cüzdan.exe.manifest
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\E-Cüzdan.application
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\Stok_Takip.csprojResolveAssemblyReference.cache
+C:\Users\hamdi\Documents\Visual Studio 2012\Projects\Stok_Takip\E-Cüzdan\obj\Debug\Stok_Takip.csproj.ResolveComReference.cache
+E:\Ders notları\Proje\Stok_Takip\E-Cüzdan\bin\Debug\E-Cüzdan.exe.config
+E:\Ders notları\Proje\Stok_Takip\E-Cüzdan\obj\Debug\Stok_Takip.csproj.ResolveComReference.cache
+E:\Ders notları\Proje\Stok_Takip\E-Cüzdan\obj\Debug\E-Cüzdan.exe
+E:\Ders notları\Proje\Stok_Takip\E-Cüzdan\obj\Debug\E-Cüzdan.pdb
+E:\Ders notları\Proje\Stok_Takip\E-Cüzdan\obj\Debug\Stok_Takip.csprojResolveAssemblyReference.cache
+E:\Ders notları\Proje\Stok_Takip\E-Cüzdan\obj\Debug\E_Cüzdan.Form1.resources
+E:\Ders notları\Proje\Stok_Takip\E-Cüzdan\obj\Debug\E_Cüzdan.Properties.Resources.resources
+E:\Ders notları\Proje\Stok_Takip\E-Cüzdan\obj\Debug\Stok_Takip.csproj.GenerateResource.Cache
